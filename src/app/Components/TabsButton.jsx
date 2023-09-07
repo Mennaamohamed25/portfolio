@@ -24,4 +24,4 @@ const TabsButton = ({active , selectTab , children}) => {
   )
 }
 
-export default TabsButton
+export default TabsButton;

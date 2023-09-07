@@ -12,4 +12,4 @@ const ProjectLinks = ({name , onClick , isSelected}) => {
   )
 }
 
-export default ProjectLinks
+export default ProjectLinks;

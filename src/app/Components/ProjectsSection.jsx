@@ -134,4 +134,4 @@ const cardVariants = {
   )
 }
 
-export default ProjectsSection
+export default ProjectsSection;
