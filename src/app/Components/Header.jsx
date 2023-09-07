@@ -18,7 +18,7 @@ const Header = () => {
         {/* FIRST PART TEXT */}
    <motion.div initial={{opacity:0 , scale:0.5}} animate={{opacity:1 , scale:1}} transition={{duration:0.5}} className='col-span-7 place-self-center text-center sm:text-left justify-self-start mb-16 sm:mb-0'>
    <h1 className='text-white mb-4 text-4xl sm:text-5xl lg:text-6xl lg:leading-normal font-extrabold'>
-    <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600'>Hello, I'm {""}</span>
+    <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600'>Hello, I&apos;m {""}</span>
   {/* Header Animation  */}
   <br/>
   <TypeAnimation
@@ -33,8 +33,8 @@ const Header = () => {
       repeat={Infinity}
     />
    </h1>
-      <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6 '>I'm looking for a new challenge at reputable company where I can put my 
-         abilities to use, broaden my knowledge, and use what I've learned. </p>
+      <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6 '>I&apos;m looking for a new challenge at reputable company where I can put my 
+         abilities to use, broaden my knowledge, and use what I&apos;ve learned. </p>
          <div >
          <Link href='#contact' className='px-6 py-3 w-full block sm:w-fit  sm:inline mr-4 md-mb-6   rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white hover:bg-slate-200' >
          

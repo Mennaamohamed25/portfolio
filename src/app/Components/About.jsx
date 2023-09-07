@@ -88,12 +88,12 @@ const About = () => {
         <div>
           <h2 className="text-4xl font-bold text-white mb-4 ">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm a Frontend developer with a passion for creating interactive and
+            I&apos;m a Frontend developer with a passion for creating interactive and
             responsive web applications. I have experience working with
             JavaScript, ES6 , React js , Redux , Next js , TypeScript , JQuery ,
-            HTML5 , CSS3, Context API and GitHub. I'm a quick learner and i'm
-            always looking to expend my knowledge and skill set. I'm a team
-            player and I'm excited to work with others to create amazing
+            HTML5 , CSS3, Context API and GitHub. I&apos;m a quick learner and i&apos;m
+            always looking to expend my knowledge and skill set. I&apos;m a team
+            player and I&apos;m excited to work with others to create amazing
             applications.
           </p>
           {/* TABS */}
