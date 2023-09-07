@@ -79,6 +79,7 @@ const About = () => {
         {/* IMAGE */}
         <Image
           src="/Images/about.png.jpeg"
+          alt="my pic"
           width={400}
           height={400}
           className="m-auto sm:m-0  rounded-lg  mb-16 sm:mb-0"
