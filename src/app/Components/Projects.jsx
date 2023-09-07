@@ -74,7 +74,7 @@ const projectsData = [
  
 ];
 
-const ProjectsSection = () => {
+const Projects = () => {
     const [tag, setTag] = useState('All');
 
     const ref = useRef(null);
@@ -134,4 +134,4 @@ const cardVariants = {
   )
 }
 
-export default ProjectsSection;
+export default Projects;
