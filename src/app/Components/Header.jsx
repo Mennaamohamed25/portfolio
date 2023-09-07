@@ -6,7 +6,7 @@ import {motion} from 'framer-motion';
 import Link from 'next/link';
 
 
-const HeaderSection = () => {
+const Header = () => {
 
 
   
@@ -64,4 +64,4 @@ const HeaderSection = () => {
   )
 }
 
-export default HeaderSection;
+export default Header;
