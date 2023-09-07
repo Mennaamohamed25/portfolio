@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import AboutSection from './Components/About';
 import ProjectsSection from './components/ProjectsSection';
 import EmailSection from './components/EmailSection';
-import AchievementsSection from './components/AchievementsSection';
+import AchievementsSection from './Components/Achievement';
 import Footer from './components/Footer';
 
 
