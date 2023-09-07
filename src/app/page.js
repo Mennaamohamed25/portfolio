@@ -1,10 +1,10 @@
 import HeaderSection from './Components/Header';
-import Navbar from './components/Navbar';
+import Navbar from './Components/Nave';
 import AboutSection from './Components/About';
 import ProjectsSection from './Components/Projects';
-import EmailSection from './components/EmailSection';
+import EmailSection from './Components/Emails';
 import AchievementsSection from './Components/Achievement';
-import Footer from './components/Footer';
+import Footer from './Components/Foot';
 
 
 

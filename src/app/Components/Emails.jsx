@@ -5,7 +5,7 @@ import LinkedinIcon from "../../../public/Images/linkedin-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
 
-const EmailSection = () => {
+const Emails = () => {
   const [emailSubmitted, setEmailSubmitted] = useState(false);
   // HANDEL SUB FUNCTION
 
@@ -133,4 +133,4 @@ const EmailSection = () => {
   );
 };
 
-export default EmailSection;
+export default Emails;

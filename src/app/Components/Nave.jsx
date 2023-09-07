@@ -22,7 +22,7 @@ const navLinks = [
     },
 ]
 
-const Navbar = () => {
+const Nave = () => {
     // OPEN AND CLOSE TG
     const [navbarOpen, setNavbarOpen] = useState(false)
   return (
@@ -63,4 +63,4 @@ const Navbar = () => {
     </nav>
   );
 };
-export default Navbar;
+export default Nave;
