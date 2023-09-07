@@ -1,6 +1,6 @@
 import HeaderSection from './components/HeaderSection';
 import Navbar from './components/Navbar';
-import AboutSection from './components/AboutSection';
+import AboutSection from './Components/About';
 import ProjectsSection from './components/ProjectsSection';
 import EmailSection from './components/EmailSection';
 import AchievementsSection from './components/AchievementsSection';
