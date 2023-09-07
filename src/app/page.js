@@ -1,4 +1,4 @@
-import HeaderSection from './components/HeaderSection';
+import HeaderSection from './components/headerSection';
 import Navbar from './components/Navbar';
 import AboutSection from './Components/About';
 import ProjectsSection from './components/ProjectsSection';
