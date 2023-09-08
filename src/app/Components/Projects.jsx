@@ -64,7 +64,7 @@ const projectsData = [
     {
         id : 7,
         title : 'Quote website',
-        desc : 'This website is about the quoute of the day. using HTML , CSS , Bootstrap and javaScript',
+        desc : 'This website is about the quote of the day. using HTML , CSS , Bootstrap and javaScript',
         image : '/Images/prj/qoute.png',
         tag :['All' , 'JavaScript' ],
         gitUrl : 'https://github.com/Mennaamohamed25/Quote',

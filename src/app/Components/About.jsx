@@ -19,7 +19,7 @@ const TAB_DATA = [
 
         <Image src="/Images/redux.svg" alt="Redux  " width={40} height={40} />
 
-        <Image src="/Images/next.svg" alt="Redux  " width={40} height={40} />
+        <Image src="/Images/next.svg" alt="next" width={40} height={40} className='bg-white rounded-full' />
 
         <Image
           src="/Images/html.svg"
