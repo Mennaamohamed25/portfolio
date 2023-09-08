@@ -100,7 +100,7 @@ const cardVariants = {
 
   return (
     <section id='projects' >
-<h2 className='text-center text-4xl font-bold text-white menna mb-8 '>My Projects</h2>
+<h2 className='text-center text-4xl font-bold text-white  mb-8 projecttop'>My Projects</h2>
 
 <div className='text-white flex flex-col sm:flex-row justify-center items-center gap-2 py-6 '>
 
