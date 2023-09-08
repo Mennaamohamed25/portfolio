@@ -123,7 +123,7 @@ const cardVariants = {
    variants={cardVariants}
    initial="initial"
    animate={isInView ? "animate" : "initial"}
-   transition={{ duration: 0.3, delay: index * 0.4 }}
+   transition={{ duration: 0.3, delay: index * 0.5 }}
  >
 
     <ProjectsCard key={project.id} title={project.title} desc={project.desc} imgUrl={project.image} gitUrl={project.gitUrl} liveUrl={project.liveUrl} />
