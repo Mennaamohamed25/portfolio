@@ -99,8 +99,8 @@ const cardVariants = {
   };
 
   return (
-    <section id='projects'>
-<h2 className='text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12'>My Projects</h2>
+    <section id='projects' >
+<h2 className='text-center text-4xl font-bold text-white menna mb-8 '>My Projects</h2>
 
 <div className='text-white flex flex-col sm:flex-row justify-center items-center gap-2 py-6 '>
 

@@ -74,7 +74,7 @@ const About = () => {
     });
   };
   return (
-    <section className="text-white " id="about">
+    <section className="text-white mb-12" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 ">
         {/* IMAGE */}
         <Image
@@ -85,7 +85,7 @@ const About = () => {
           className="m-auto sm:m-0  rounded-lg  mb-16 sm:mb-0"
         />
         {/* HEADER */}
-        <div>
+        <div >
           <h2 className="text-4xl font-bold text-white mb-4 ">About Me</h2>
           <p className="text-base lg:text-lg">
             I&apos;m a Frontend developer with a passion for creating interactive and
@@ -97,7 +97,7 @@ const About = () => {
             applications.
           </p>
           {/* TABS */}
-          <div className="flex flex-row mt-8">
+          <div className="flex flex-row mt-4">
             <TabsButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}
@@ -118,7 +118,7 @@ const About = () => {
             </TabsButton>
           </div>
 
-          <div className="mt-8">
+          <div className="mt-8 h-24 ">
             {TAB_DATA.find((t) => t.id === tab).content}
           </div>
         </div>
