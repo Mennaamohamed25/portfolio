@@ -39,7 +39,7 @@ const projectsData = [
         image : '/Images/prj/mypro.png',
         tag :['All' , 'Next'],
         gitUrl : 'https://github.com/Mennaamohamed25/Myprofile.git',
-        liveUrl : '/',
+        liveUrl : 'https://portfolio-one-ochre-89.vercel.app/',
     },
 
   
